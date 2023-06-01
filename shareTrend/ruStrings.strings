@@ -1,0 +1,113 @@
+/*
+  ruStrings.strings
+  shareTrend
+
+  Created by Muhammet Nurchayev on 13.06.2022.
+  
+*/
+
+"Order Status" = "Статус заказа";
+"Töleg" = "Оплата";
+"Haryt sany:" = "Количество товаров";
+"Zakaz kody:" = "Код заказа";
+"Zakazyň berilen wagty:" = "Когда был отправлень заказ";
+"Garaşylýar" = "в ожидании";
+"pending" = "в ожидании";
+"accepted" = "принято";
+"in_truck" = "принято";
+"in_stock" = "принято";
+"packing" = "принято";
+"stock_tm" = "принято";
+"stock_tr" = "принято";
+"ontheway" = "принято";
+"delivered" = "полученный";
+"Sany:" = "Количество";
+"Razmer:" = "Размер";
+"canceled" = "Отмена";
+"Töleg" = "Оплата";
+"Harytlaryň jemi bahasy :" = "Общая стоимость товаров: ";
+"Eltip bermek hyzmaty :" = "Служба доставки: ";
+"JEMI BAHASY :" = "Общая сумма: ";
+"Doly maglumat" = "Подробности";
+"Sargyt ID:" = "номер заказа";
+"Jemi Bahasy:" = "Итоговая цена: ";
+"Size:" = "Размер: ";
+"Cart id:" = "ID:";
+"Normal cargo" = "Обычная доставка";
+"Fast cargo" = "Экспресс-доставка";
+"Hawa" = "Да";
+"Alert" = "Внимание";
+"Yatyr" = "Отменить";
+"Sayla" = "Выбирать";
+"Delivery_day:" = "День доставки: ";
+"Delivery_price:" = "Цена доставки";
+"Discount:" = "Скидка";
+"Total price:" = "Итоговая цена";
+"Русский язык" = "Русский язык";
+"Türkmen dili" = "Туркменский язык";
+"Login" = "Логин";
+"Please enter your phone number and get code" = "Пожалуйста,введите свой номер телефона и получите код";
+"Phone" = "Телефон";
+"No Account? Register" = "Нет аккаунта. Вы хотите зарегистрироваться?";
+"Approve" = "Одобрить";
+"Register" = "Зарегистрироваться";
+"Please enter all information fields" = "Пожалуйста, заполните все информационные поля";
+"Phone" = "Телефон";
+"Name" = "Имя";
+"Address" = "Адрес";
+"email*" = "Электроная почта (необязательно)";
+"Invitation code*" = "Код приглашения (необязательно)";
+"Code" = "Код";
+"Add to cart" = "Добавить в корзину";
+"Sebedi tassykla" = "Подтвердить";
+"Jemi bahasy:" = "Общая стоимость";
+"No cart" = "Нет товара";
+"Orders" = "Заказы";
+"Cancel order" = "Отменить заказ";
+"Are you sure?" = "Вы уверены?";
+"Ok" = "Ok";
+"Cancel" = "Отмена";
+"Cancel order" = "Отменить заказ";
+"Scanning not supported" = "Сканирование не поддерживается";
+"Your device does not support scanning a code from an item. Please use a device with a camera." = "Ваше устройство не поддерживает сканирование кода с элемента. Пожалуйста, используйте устройство с камерой";
+"Not registered" = "Не зарегистрирован";
+"Do you want register?" = "Вы хотите зарегистрироваться?";
+"Select" = "Выбирать";
+"Home" = "Главная";
+"Cart" = "Корзина";
+"Profile" = "Профиль";
+"Retry" = "Повторить";
+
+"Please update to latest version!" = "Пожалуйста, обновите до последней версии!";
+"Update" = "Обновлять";
+"Search" = "Поиск";
+"Error" = "Ошибка";
+"Reload" = "Повторить";
+"Please select size!" = "Пожалуйста, выберите размер!";
+"Product added" = "Товар добавлен";
+"Products" = "Товары";
+"gun" = "день";
+"Sargyt etjekmi?" = "Будете заказывать?";
+"Log out" = "Выйти";
+"update_required" = "Требуется обновление";
+"under_maintenance" = "На техобслуживании";
+"update" = "Обновить";
+"exit" = "Выход";
+"Please wait..." = "Пожалуйста подождите";
+"network_error" = "Сетевая ошибка";
+
+
+"Help" = "Помощь";
+"Language" = "Язык";
+"Generate invitation code" = "Сгенерировать код приглашения";
+"No status" = "Статус";
+"Last products" = "Последние продукты";
+"login" = "Войти";
+"continue" = "Продолжить";
+"our_products" = "Товары";
+"help" = "Помощь";
+"can_not_find_product" = "Не удается найти продукт";
+"please enter verification code" = "Пожалуйста, введите код подтверждения";
+"remove account" = "Удалить аккаунт";
+"remove_account_info" = "Все ваши данные будут уничтожены, вы уверены?";
+"remove" = "Удалить";

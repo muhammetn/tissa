@@ -1,0 +1,115 @@
+/* 
+  tkStrings.strings
+  shareTrend
+
+  Created by Muhammet Nurchayev on 13.06.2022.
+  
+*/
+
+"Order Status" = "Sargyt status";
+"Töleg" = "Töleg";
+"Haryt sany:" = "Haryt sany:";
+"Zakaz kody:" = "Sargyt ID:";
+"Zakazyň berilen wagty:" = "Zakazyň berilen wagty:";
+"Garaşylýar" = "Garaşylýar";
+"pending" = "Garaşylýar";
+"ordered" = "Kabul edildi";
+"in_truck" = "Kabul edildi";
+"in_office" = "Kabul edildi";
+"in_stock" = "Kabul edildi";
+"packing" = "Kabul edildi";
+"stock_tm" = "Kabul edildi";
+"stock_tr" = "Kabul edildi";
+"ontheway" = "Kabul edildi";
+"delivered" = "Eltip berildi";
+"Sany:" = "Sany:";
+"Razmer:" = "Razmer:";
+"canceled" = "Ýatyryldy";
+"Töleg" = "Töleg";
+"Harytlaryň jemi bahasy :" = "Harytlaryň jemi bahasy :";
+"Eltip bermek hyzmaty :" = "Eltip bermek hyzmaty :";
+"JEMI BAHASY :" = "JEMI BAHASY :";
+"Doly maglumat" = "Doly maglumat";
+"Sargyt ID:" = "Sargyt ID:";
+"Jemi Bahasy:" = "Jemi Bahasy:";
+"Size:" = "Razmer:";
+"Cart id:" = "ID:";
+
+"Normal cargo" = "Adaty kargo";
+"Fast cargo" = "Ekspress-kargo";
+"Hawa" = "Hawa";
+"Alert" = "Duýduryş";
+"Yatyr" = "Ýatyr";
+"Sayla" = "Saýla";
+"Delivery_day:" = "Eltip beriş güni";
+"Delivery_price:" = "Eltip beriş bahasy";
+"Discount:" = "Arzanladyş:";
+"Total price:" = "Jemi bahasy:";
+"Русский язык" = "Rus dili";
+"Türkmen dili" = "Türkmen dili";
+"Login" = "Giriş";
+"Please enter your phone number and get code" = "Telefon belgiňizi ýazyň we kod alyň";
+"Phone" = "Telefon";
+"No Account? Register" = "Hasabyňyz ýok. Registrasiýa etmek isleýärsiňizmi?";
+"Approve" = "Tassyklamak";
+"Register" = "Registrasiýa";
+"Please enter all information fields" = "Doly maglumat girizilmedi";
+"Phone" = "Telefon";
+"Name" = "Adyňyz";
+"Address" = "Adres";
+"email*" = "mail (hökmany dal)";
+"Invitation code*" = "Çagyryş kody (hökmany dal)";
+"Code" = "Kod";
+"Add to cart" = "Sebete goşmak";
+"Sebedi tassykla" = "Sebedi tassykla";
+"Jemi bahasy:" = "Jemi bahasy:";
+"No cart" = "Haryt ýok";
+"Orders" = "Zakazlarym";
+"Cancel order" = "Sargydy ýatyrmak";
+"Are you sure?" = "Ynamyňyz bamy?";
+"Ok" = "Ok";
+"Cancel" = "Ýatyrmak";
+"Cancel order" = "Sargydy ýatyrmak";
+"Scanning not supported" = "Skaner goldanok";
+"Your device does not support scanning a code from an item. Please use a device with a camera." = "Enjamyňyz kody skanirlemegi goldamaýar. Kameraly enjam ulanyň";
+"Not registered" = "Registrasiýa bolunmadyk";
+"Do you want register?" = "Registrasiýa bolmak isleýärsiňizmi?";
+"Select" = "Saýlaň";
+"Home" = "Esasy";
+"Cart" = "Sebet";
+"Profile" = "Profil";
+"Retry" = "Täzeden";
+
+"Please update to latest version!" = "Iň soňky wersiýasyna täzelenmegiňizi haýyş edýäris!";
+"Update" = "Täzelemek";
+"Search" = "Gözleg";
+"Error" = "Ýalňyşlyk";
+"Reload" = "Gaýtadan ýükläň";
+"Please select size!" = "Razmer saýlamagyňyzy haýyş edýäris!";
+"Product added" = "Önüm goşuldy";
+"gun" = "gün";
+"Sargyt etjekmi?" = "Sargyt etmek isleýänizmi?";
+"Log out" = "Hasapdan çykmak";
+"update_required" = "Täzelenmegi talap edýär";
+"under_maintenance" = "Düzediş işleri geçirilýär";
+"update" = "Täzelemek";
+"exit" = "Çykmak";
+"Please wait..." = "Garaşmagyňyzy haýyş edýäris";
+"network_error" = "Internet näsazlygy";
+"Products" = "Harytlar";
+
+"Help" = "Kömek";
+"Language" = "Dil";
+"Generate invitation code" = "Çakylyk kody döretmek";
+"No status" = "Status";
+"Last products" = "Soňky görülenler";
+"login" = "Içeri girmek";
+"continue" = "Dowam etmek";
+"Products" = "Harytlar";
+"help" = "Kömek";
+"can_not_find_product" = "Haryt tapylmady";
+
+"please enter verification code" = "Telefonyňyza iberilen kody giriziň";
+"remove account" = "Hasaby aýyrmak";
+"remove_account_info" = "Siziň ähli maglumatlaryňyz ýok ediler, ynamyňyz barmy?";
+"remove" = "Aýyrmak";

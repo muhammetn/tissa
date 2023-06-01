@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>mainApp</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>shareTrend</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Proxima Nova Black Italic.otf</string>
+		<string>Proxima Nova Black.otf</string>
+		<string>Proxima Nova Bold Italic.otf</string>
+		<string>Proxima Nova Bold.otf</string>
+		<string>Proxima Nova Extrabold Italic.otf</string>
+		<string>Proxima Nova Extrabold.otf</string>
+		<string>Proxima Nova Light Italic.otf</string>
+		<string>Proxima Nova Light.otf</string>
+		<string>Proxima Nova Regular Italic.otf</string>
+		<string>Proxima Nova Regular.otf</string>
+		<string>Proxima Nova Semibold Italic.otf</string>
+		<string>Proxima Nova Semibold.otf</string>
+		<string>Proxima Nova Thin Italic.otf</string>
+		<string>Proxima Nova Thin.otf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDarkContent</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

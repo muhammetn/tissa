@@ -1,0 +1,6 @@
+framework module Pods_shareTrend {
+  umbrella header "Pods-shareTrend-umbrella.h"
+
+  export *
+  module * { export * }
+}
